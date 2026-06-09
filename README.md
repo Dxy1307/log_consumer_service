@@ -2,34 +2,89 @@
 
 ## Overview
 
-H? th?ng x? l? log s? d?ng **Kafka + Oracle Database + Staging Table Pattern**.
+A high-throughput log processing system built with Java, Apache Kafka, and Oracle Database.
 
-Flow:
+The system uses a **Staging Table Pattern** to ensure reliability, scalability, and fault tolerance when processing millions of logs.
+
+### Architecture
 
 ```text
 Producer
-   Å´
+   Ñ†
+   Å•
  Kafka
-   Å´
+   Ñ†
+   Å•
 Consumer
-   Å´
+   Ñ†
+   Å•
 LOG_EVENT_STG
-   Å´
+   Ñ†
+   Å•
 Processor
-   Å´
+   Ñ†
+   Å•
 LOG_EVENT
 ```
 
 ## Features
 
-* Producer sinh log v?i TPS c?u h?nh ???c
-* Kafka l?m message broker
-* Batch insert Oracle
-* Retry t?i ?a 3 l?n v?i Exponential Backoff
-* Backpressure khi staging backlog qu? l?n
-* H? tr? nhi?u Producer / Consumer / Processor
-* Kh?ng m?t log khi Consumer crash
-* Logging ri?ng cho t?ng app
+- Configurable log generation rate (TPS)
+- Apache Kafka as message broker
+- Batch processing for high performance
+- Oracle Database integration
+- Retry mechanism with exponential backoff
+- Backpressure protection for overload scenarios
+- Supports multiple Producers, Consumers, and Processors
+- Crash recovery without log loss
+- Separate log files for each application component
+
+## Configuration
+
+```properties
+producer.tps=1000
+
+kafka.max.poll.records=1000
+
+processor.batch.size=1000
+
+consumer.retry.max.attempts=3
+consumer.retry.initial.backoff.ms=500
+
+staging.max.pending=100000
+```
+
+## Running the Applications
+
+### Start Producer
+
+```bash
+mvn exec:java -Dexec.mainClass=com.example.logservice.LogProducerApp
+```
+
+### Start Consumer
+
+```bash
+mvn exec:java -Dexec.mainClass=com.example.logservice.LogConsumerServiceApp
+```
+
+### Start Processor
+
+```bash
+mvn exec:java -Dexec.mainClass=com.example.logservice.StagingProcessorApp
+```
+
+## Scalability
+
+- Run multiple Producer instances to increase throughput.
+- Increase Kafka partitions and run multiple Consumers.
+- Run multiple Processors using `FOR UPDATE SKIP LOCKED` to prevent duplicate processing.
+
+## Reliability
+
+- Kafka offsets are committed only after successful staging insert.
+- Automatic retry on database failures.
+- Recovery of records stuck in `PROCESSING` state after application crashes.
 
 ## Log Files
 
@@ -40,56 +95,10 @@ logs/
 Ñ§ÑüÑü processor.txt
 ```
 
-## Main Configuration
+## Technology Stack
 
-```properties
-kafka.max.poll.records=1000
-producer.tps=1000
-
-processor.batch.size=1000
-
-consumer.retry.max.attempts=3
-consumer.retry.initial.backoff.ms=500
-
-staging.max.pending=100000
-```
-
-## Run
-
-### Producer
-
-```bash
-mvn exec:java -Dexec.mainClass=com.example.logservice.LogProducerApp
-```
-
-### Consumer
-
-```bash
-mvn exec:java -Dexec.mainClass=com.example.logservice.LogConsumerServiceApp
-```
-
-### Processor
-
-```bash
-mvn exec:java -Dexec.mainClass=com.example.logservice.StagingProcessorApp
-```
-
-## Scalability
-
-* Ch?y nhi?u Producer ?? t?ng TPS
-* T?ng Kafka partitions v? ch?y nhi?u Consumer
-* Ch?y nhi?u Processor, s? d?ng `FOR UPDATE SKIP LOCKED` ?? tr?nh x? l? tr?ng
-
-## Reliability
-
-* Commit Kafka offset sau khi insert staging th?nh c?ng
-* Retry khi DB l?i
-* Recover record ?ang PROCESSING n?u app b? crash
-
-## Tech Stack
-
-* Java 17
-* Maven
-* Apache Kafka
-* Oracle Database
-* HikariCP
+- Java 17
+- Maven
+- Apache Kafka
+- Oracle Database
+- HikariCP
