@@ -1,0 +1,319 @@
+[2026-06-09 16:18:52.353] [PRODUCER] [INFO] Producer app started. topic=logs, tps=1000
+[2026-06-09 16:18:57.022] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=3419
+  success.total=3384
+  failed.total=0
+  sent.tps=683.80
+==========================================
+[2026-06-09 16:19:02.023] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=7012
+  success.total=6960
+  failed.total=0
+  sent.tps=718.46
+==========================================
+[2026-06-09 16:19:07.032] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=7692
+  success.total=7679
+  failed.total=0
+  sent.tps=135.76
+==========================================
+[2026-06-09 16:19:12.039] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=8320
+  success.total=8313
+  failed.total=0
+  sent.tps=125.42
+==========================================
+[2026-06-09 16:19:17.041] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=8950
+  success.total=8935
+  failed.total=0
+  sent.tps=125.95
+==========================================
+[2026-06-09 16:19:22.050] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=9571
+  success.total=9570
+  failed.total=0
+  sent.tps=123.98
+==========================================
+[2026-06-09 16:19:27.052] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=11451
+  success.total=11401
+  failed.total=0
+  sent.tps=375.85
+==========================================
+[2026-06-09 16:19:32.052] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=15480
+  success.total=15452
+  failed.total=0
+  sent.tps=805.80
+==========================================
+[2026-06-09 16:19:37.052] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=19414
+  success.total=19364
+  failed.total=0
+  sent.tps=786.80
+==========================================
+[2026-06-09 16:19:41.991] [PRODUCER] [INFO] Producer app stopped.
+[2026-06-09 16:31:21.267] [PRODUCER] [INFO] Producer app started. topic=logs, tps=1000
+[2026-06-09 16:31:25.943] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=3474
+  success.total=3457
+  failed.total=0
+  sent.tps=694.66
+==========================================
+[2026-06-09 16:31:30.944] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=7515
+  success.total=7453
+  failed.total=0
+  sent.tps=808.04
+==========================================
+[2026-06-09 16:31:35.945] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=11560
+  success.total=11497
+  failed.total=0
+  sent.tps=808.84
+==========================================
+[2026-06-09 16:31:40.946] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=15718
+  success.total=15651
+  failed.total=0
+  sent.tps=831.43
+==========================================
+[2026-06-09 16:31:45.946] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=19954
+  success.total=19886
+  failed.total=0
+  sent.tps=847.20
+==========================================
+[2026-06-09 16:31:50.947] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=24130
+  success.total=24068
+  failed.total=0
+  sent.tps=835.03
+==========================================
+[2026-06-09 16:31:55.950] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=28191
+  success.total=28155
+  failed.total=0
+  sent.tps=811.71
+==========================================
+[2026-06-09 16:32:00.952] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=32290
+  success.total=32268
+  failed.total=0
+  sent.tps=819.47
+==========================================
+[2026-06-09 16:32:05.953] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=36102
+  success.total=36088
+  failed.total=0
+  sent.tps=762.25
+==========================================
+[2026-06-09 16:32:10.954] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=40337
+  success.total=40248
+  failed.total=0
+  sent.tps=846.83
+==========================================
+[2026-06-09 16:32:15.954] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=44439
+  success.total=44383
+  failed.total=0
+  sent.tps=820.40
+==========================================
+[2026-06-09 16:32:20.954] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=48547
+  success.total=48500
+  failed.total=0
+  sent.tps=821.60
+==========================================
+[2026-06-09 16:32:25.954] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=52622
+  success.total=52569
+  failed.total=0
+  sent.tps=815.00
+==========================================
+[2026-06-09 16:32:30.954] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=56805
+  success.total=56749
+  failed.total=0
+  sent.tps=836.60
+==========================================
+[2026-06-09 16:32:35.955] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=61000
+  success.total=60938
+  failed.total=0
+  sent.tps=838.83
+==========================================
+[2026-06-09 16:32:40.956] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=65256
+  success.total=65190
+  failed.total=0
+  sent.tps=851.03
+==========================================
+[2026-06-09 16:32:45.956] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=69492
+  success.total=69423
+  failed.total=0
+  sent.tps=847.20
+==========================================
+[2026-06-09 16:32:50.956] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=73767
+  success.total=73698
+  failed.total=0
+  sent.tps=855.00
+==========================================
+[2026-06-09 16:32:55.957] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=78030
+  success.total=77960
+  failed.total=0
+  sent.tps=852.43
+==========================================
+[2026-06-09 16:33:00.967] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=79084
+  success.total=79077
+  failed.total=0
+  sent.tps=210.38
+==========================================
+[2026-06-09 16:33:05.977] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=79732
+  success.total=79721
+  failed.total=0
+  sent.tps=129.34
+==========================================
+[2026-06-09 16:33:10.991] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=80378
+  success.total=80372
+  failed.total=0
+  sent.tps=128.84
+==========================================
+[2026-06-09 16:33:15.995] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=81024
+  success.total=81023
+  failed.total=0
+  sent.tps=129.10
+==========================================
+[2026-06-09 16:33:21.005] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=81666
+  success.total=81661
+  failed.total=0
+  sent.tps=128.14
+==========================================
+[2026-06-09 16:33:26.008] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=82310
+  success.total=82299
+  failed.total=0
+  sent.tps=128.72
+==========================================
+[2026-06-09 16:33:31.020] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=82957
+  success.total=82944
+  failed.total=0
+  sent.tps=129.09
+==========================================
+[2026-06-09 16:33:36.030] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=83603
+  success.total=83590
+  failed.total=0
+  sent.tps=128.94
+==========================================
+[2026-06-09 16:33:41.035] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=84250
+  success.total=84242
+  failed.total=0
+  sent.tps=129.27
+==========================================
+[2026-06-09 16:33:46.039] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=84896
+  success.total=84886
+  failed.total=0
+  sent.tps=129.10
+==========================================
+[2026-06-09 16:33:51.041] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=85540
+  success.total=85529
+  failed.total=0
+  sent.tps=128.75
+==========================================
+[2026-06-09 16:33:56.048] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=86186
+  success.total=86181
+  failed.total=0
+  sent.tps=129.02
+==========================================
+[2026-06-09 16:34:01.060] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=86832
+  success.total=86829
+  failed.total=0
+  sent.tps=128.89
+==========================================
+[2026-06-09 16:34:06.068] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=87478
+  success.total=87471
+  failed.total=0
+  sent.tps=128.99
+==========================================
+[2026-06-09 16:34:11.068] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=89362
+  success.total=89358
+  failed.total=0
+  sent.tps=376.80
+==========================================
+[2026-06-09 16:34:16.068] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=93554
+  success.total=93476
+  failed.total=0
+  sent.tps=838.40
+==========================================
+[2026-06-09 16:34:21.069] [PRODUCER] [INFO] ========== [STATS] PRODUCER ==========
+Producer:
+  sent.total=97792
+  success.total=97779
+  failed.total=0
+  sent.tps=847.43
+==========================================
+[2026-06-09 16:34:25.513] [PRODUCER] [INFO] Producer app stopped.

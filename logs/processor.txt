@@ -1,0 +1,441 @@
+[2026-06-09 16:18:49.969] [PROCESSOR] [INFO] Staging processor app started. batchSize=1000
+[2026-06-09 16:18:53.224] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:18:55.235] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=1000
+  failed.total=0
+  recovered.total=0
+  processed.tps=189.93
+==========================================
+[2026-06-09 16:18:55.315] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:18:56.466] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:18:57.559] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:18:58.647] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:18:59.716] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:00.720] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=6000
+  failed.total=0
+  recovered.total=0
+  processed.tps=911.41
+==========================================
+[2026-06-09 16:19:00.891] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:03.004] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:06.069] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=8000
+  failed.total=0
+  recovered.total=0
+  processed.tps=373.90
+==========================================
+[2026-06-09 16:19:11.140] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=8000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:19:11.196] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:16.243] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=9000
+  failed.total=0
+  recovered.total=0
+  processed.tps=195.96
+==========================================
+[2026-06-09 16:19:19.360] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:21.383] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=10000
+  failed.total=0
+  recovered.total=0
+  processed.tps=194.55
+==========================================
+[2026-06-09 16:19:26.425] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=10000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:19:26.487] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:27.557] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:28.616] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:29.666] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:30.791] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:31.812] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=15000
+  failed.total=0
+  recovered.total=0
+  processed.tps=928.16
+==========================================
+[2026-06-09 16:19:31.858] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:33.907] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:35.014] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:36.065] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:37.069] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=19000
+  failed.total=0
+  recovered.total=0
+  processed.tps=760.89
+==========================================
+[2026-06-09 16:19:37.123] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:38.177] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:40.234] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:41.327] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:42.329] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=23000
+  failed.total=0
+  recovered.total=0
+  processed.tps=760.46
+==========================================
+[2026-06-09 16:19:42.404] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:19:45.100] [PROCESSOR] [INFO] Staging processor app stopped.
+[2026-06-09 16:31:19.049] [PROCESSOR] [INFO] Staging processor app started. batchSize=1000
+[2026-06-09 16:31:23.325] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:24.329] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=1000
+  failed.total=0
+  recovered.total=0
+  processed.tps=189.43
+==========================================
+[2026-06-09 16:31:24.393] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:25.455] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:27.536] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:28.614] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:29.617] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=5000
+  failed.total=0
+  recovered.total=0
+  processed.tps=756.29
+==========================================
+[2026-06-09 16:31:29.677] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:30.743] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:31.835] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:33.917] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:34.919] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=9000
+  failed.total=0
+  recovered.total=0
+  processed.tps=754.43
+==========================================
+[2026-06-09 16:31:34.984] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:36.065] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:37.164] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:38.213] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:39.268] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:40.270] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=14000
+  failed.total=0
+  recovered.total=0
+  processed.tps=934.40
+==========================================
+[2026-06-09 16:31:40.312] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:41.362] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:43.413] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:44.460] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:45.474] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=18000
+  failed.total=0
+  recovered.total=0
+  processed.tps=768.64
+==========================================
+[2026-06-09 16:31:45.516] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:46.570] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:47.646] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:48.694] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:49.753] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:50.755] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=23000
+  failed.total=0
+  recovered.total=0
+  processed.tps=946.79
+==========================================
+[2026-06-09 16:31:51.811] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:52.895] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:53.958] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:55.019] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:56.024] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=27000
+  failed.total=0
+  recovered.total=0
+  processed.tps=759.16
+==========================================
+[2026-06-09 16:31:56.068] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:57.115] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:31:59.162] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:00.211] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:01.216] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=31000
+  failed.total=0
+  recovered.total=0
+  processed.tps=770.42
+==========================================
+[2026-06-09 16:32:01.267] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:02.325] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:03.470] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:04.567] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:06.572] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=35000
+  failed.total=0
+  recovered.total=0
+  processed.tps=746.83
+==========================================
+[2026-06-09 16:32:06.636] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:07.682] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:08.731] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:09.779] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:10.826] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:11.829] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=40000
+  failed.total=0
+  recovered.total=0
+  processed.tps=951.11
+==========================================
+[2026-06-09 16:32:11.877] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:13.936] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:14.984] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:16.045] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:17.047] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=44000
+  failed.total=0
+  recovered.total=0
+  processed.tps=766.58
+==========================================
+[2026-06-09 16:32:17.095] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:18.146] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:19.216] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:20.298] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:22.306] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=48000
+  failed.total=0
+  recovered.total=0
+  processed.tps=760.60
+==========================================
+[2026-06-09 16:32:22.361] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:23.418] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:24.479] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:25.528] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:26.576] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:27.578] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=53000
+  failed.total=0
+  recovered.total=0
+  processed.tps=948.41
+==========================================
+[2026-06-09 16:32:27.626] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:29.676] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:30.740] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:31.784] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:32.787] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=57000
+  failed.total=0
+  recovered.total=0
+  processed.tps=767.90
+==========================================
+[2026-06-09 16:32:32.856] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:33.915] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:34.963] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:36.008] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:38.013] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=61000
+  failed.total=0
+  recovered.total=0
+  processed.tps=765.40
+==========================================
+[2026-06-09 16:32:38.062] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:39.114] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:40.196] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:41.247] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:42.314] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:43.317] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=66000
+  failed.total=0
+  recovered.total=0
+  processed.tps=942.68
+==========================================
+[2026-06-09 16:32:43.363] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:44.442] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:45.515] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:46.571] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:48.578] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=70000
+  failed.total=0
+  recovered.total=0
+  processed.tps=760.31
+==========================================
+[2026-06-09 16:32:48.639] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:49.694] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:50.737] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:51.782] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:52.842] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:53.848] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=75000
+  failed.total=0
+  recovered.total=0
+  processed.tps=948.77
+==========================================
+[2026-06-09 16:32:53.891] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:54.935] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:55.983] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:32:59.018] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=78000
+  failed.total=0
+  recovered.total=0
+  processed.tps=580.27
+==========================================
+[2026-06-09 16:33:00.080] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:04.137] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=79000
+  failed.total=0
+  recovered.total=0
+  processed.tps=195.35
+==========================================
+[2026-06-09 16:33:08.216] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:09.222] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=80000
+  failed.total=0
+  recovered.total=0
+  processed.tps=196.70
+==========================================
+[2026-06-09 16:33:14.260] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=80000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:33:16.324] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:19.352] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=81000
+  failed.total=0
+  recovered.total=0
+  processed.tps=196.39
+==========================================
+[2026-06-09 16:33:23.447] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:24.456] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=82000
+  failed.total=0
+  recovered.total=0
+  processed.tps=195.92
+==========================================
+[2026-06-09 16:33:29.498] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=82000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:33:31.590] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:34.618] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=83000
+  failed.total=0
+  recovered.total=0
+  processed.tps=195.31
+==========================================
+[2026-06-09 16:33:38.700] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:39.703] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=84000
+  failed.total=0
+  recovered.total=0
+  processed.tps=196.66
+==========================================
+[2026-06-09 16:33:44.738] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=84000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:33:46.896] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:33:49.917] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=85000
+  failed.total=0
+  recovered.total=0
+  processed.tps=193.09
+==========================================
+[2026-06-09 16:33:54.970] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=85000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:33:55.017] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:00.068] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=86000
+  failed.total=0
+  recovered.total=0
+  processed.tps=196.16
+==========================================
+[2026-06-09 16:34:02.136] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:05.186] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=87000
+  failed.total=0
+  recovered.total=0
+  processed.tps=195.39
+==========================================
+[2026-06-09 16:34:10.262] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=87000
+  failed.total=0
+  recovered.total=0
+  processed.tps=0.00
+==========================================
+[2026-06-09 16:34:10.330] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:11.416] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:12.508] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:13.566] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:14.616] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:15.619] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=92000
+  failed.total=0
+  recovered.total=0
+  processed.tps=933.36
+==========================================
+[2026-06-09 16:34:15.668] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:16.737] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:17.783] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:19.839] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:20.841] [PROCESSOR] [INFO] ========== [STATS] PROCESSOR ==========
+Processor:
+  processed.total=96000
+  failed.total=0
+  recovered.total=0
+  processed.tps=765.99
+==========================================
+[2026-06-09 16:34:20.920] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:22.019] [PROCESSOR] [INFO] Processed rows=1000
+[2026-06-09 16:34:23.720] [PROCESSOR] [INFO] Staging processor app stopped.

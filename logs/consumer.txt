@@ -1,0 +1,803 @@
+[2026-06-09 16:18:47.699] [CONSUMER] [INFO] Consumer app started. topic=logs, insertBatchSize=1000
+[2026-06-09 16:18:52.761] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=947
+  valid.total=0
+  bad.total=0
+  polled.tps=182.26
+Staging Insert:
+  success.total=0
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=0
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:18:57.807] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=4903
+  valid.total=4000
+  bad.total=0
+  polled.tps=783.68
+Staging Insert:
+  success.total=4000
+  failed.total=0
+  insert.tps=792.39
+Kafka Offset:
+  commit.success.total=4
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:02.848] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=8095
+  valid.total=8000
+  bad.total=0
+  polled.tps=633.21
+Staging Insert:
+  success.total=8000
+  failed.total=0
+  insert.tps=793.49
+Kafka Offset:
+  commit.success.total=8
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:07.928] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=8679
+  valid.total=8000
+  bad.total=0
+  polled.tps=114.96
+Staging Insert:
+  success.total=8000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=8
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:12.962] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=9310
+  valid.total=9000
+  bad.total=0
+  polled.tps=125.35
+Staging Insert:
+  success.total=9000
+  failed.total=0
+  insert.tps=198.65
+Kafka Offset:
+  commit.success.total=9
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:18.082] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=9946
+  valid.total=9000
+  bad.total=0
+  polled.tps=124.22
+Staging Insert:
+  success.total=9000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=9
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:23.113] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=10581
+  valid.total=10000
+  bad.total=0
+  polled.tps=126.22
+Staging Insert:
+  success.total=10000
+  failed.total=0
+  insert.tps=198.77
+Kafka Offset:
+  commit.success.total=10
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:28.140] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=13197
+  valid.total=13000
+  bad.total=0
+  polled.tps=520.39
+Staging Insert:
+  success.total=13000
+  failed.total=0
+  insert.tps=596.78
+Kafka Offset:
+  commit.success.total=13
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:33.209] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=17233
+  valid.total=17000
+  bad.total=0
+  polled.tps=796.21
+Staging Insert:
+  success.total=17000
+  failed.total=0
+  insert.tps=789.11
+Kafka Offset:
+  commit.success.total=17
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:38.234] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=21174
+  valid.total=21000
+  bad.total=0
+  polled.tps=784.28
+Staging Insert:
+  success.total=21000
+  failed.total=0
+  insert.tps=796.02
+Kafka Offset:
+  commit.success.total=21
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:43.984] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=24085
+  valid.total=24000
+  bad.total=0
+  polled.tps=506.35
+Staging Insert:
+  success.total=24000
+  failed.total=0
+  insert.tps=521.83
+Kafka Offset:
+  commit.success.total=24
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:19:47.198] [CONSUMER] [INFO] Consumer app stopped.
+[2026-06-09 16:31:16.399] [CONSUMER] [INFO] Consumer app started. topic=logs, insertBatchSize=1000
+[2026-06-09 16:31:21.712] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=169
+  valid.total=0
+  bad.total=0
+  polled.tps=31.04
+Staging Insert:
+  success.total=0
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=0
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:26.753] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=4179
+  valid.total=4000
+  bad.total=0
+  polled.tps=795.00
+Staging Insert:
+  success.total=4000
+  failed.total=0
+  insert.tps=793.02
+Kafka Offset:
+  commit.success.total=4
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:31.811] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=8229
+  valid.total=8000
+  bad.total=0
+  polled.tps=800.71
+Staging Insert:
+  success.total=8000
+  failed.total=0
+  insert.tps=790.83
+Kafka Offset:
+  commit.success.total=8
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:36.897] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=12381
+  valid.total=12000
+  bad.total=0
+  polled.tps=816.52
+Staging Insert:
+  success.total=12000
+  failed.total=0
+  insert.tps=786.63
+Kafka Offset:
+  commit.success.total=12
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:41.990] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=16675
+  valid.total=16000
+  bad.total=0
+  polled.tps=842.95
+Staging Insert:
+  success.total=16000
+  failed.total=0
+  insert.tps=785.24
+Kafka Offset:
+  commit.success.total=16
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:47.088] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=20968
+  valid.total=20000
+  bad.total=0
+  polled.tps=842.09
+Staging Insert:
+  success.total=20000
+  failed.total=0
+  insert.tps=784.62
+Kafka Offset:
+  commit.success.total=20
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:52.117] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=25124
+  valid.total=25000
+  bad.total=0
+  polled.tps=826.41
+Staging Insert:
+  success.total=25000
+  failed.total=0
+  insert.tps=994.23
+Kafka Offset:
+  commit.success.total=25
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:31:57.133] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=29178
+  valid.total=29000
+  bad.total=0
+  polled.tps=808.21
+Staging Insert:
+  success.total=29000
+  failed.total=0
+  insert.tps=797.45
+Kafka Offset:
+  commit.success.total=29
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:02.148] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=33360
+  valid.total=33000
+  bad.total=0
+  polled.tps=833.90
+Staging Insert:
+  success.total=33000
+  failed.total=0
+  insert.tps=797.61
+Kafka Offset:
+  commit.success.total=33
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:07.169] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=37205
+  valid.total=37000
+  bad.total=0
+  polled.tps=765.78
+Staging Insert:
+  success.total=37000
+  failed.total=0
+  insert.tps=796.65
+Kafka Offset:
+  commit.success.total=37
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:12.176] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=41448
+  valid.total=41000
+  bad.total=0
+  polled.tps=847.41
+Staging Insert:
+  success.total=41000
+  failed.total=0
+  insert.tps=798.88
+Kafka Offset:
+  commit.success.total=41
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:17.214] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=45546
+  valid.total=45000
+  bad.total=0
+  polled.tps=813.58
+Staging Insert:
+  success.total=45000
+  failed.total=0
+  insert.tps=794.12
+Kafka Offset:
+  commit.success.total=45
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:22.225] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=49639
+  valid.total=49000
+  bad.total=0
+  polled.tps=816.64
+Staging Insert:
+  success.total=49000
+  failed.total=0
+  insert.tps=798.08
+Kafka Offset:
+  commit.success.total=49
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:27.317] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=53843
+  valid.total=53000
+  bad.total=0
+  polled.tps=825.61
+Staging Insert:
+  success.total=53000
+  failed.total=0
+  insert.tps=785.55
+Kafka Offset:
+  commit.success.total=53
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:32.457] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=58073
+  valid.total=58000
+  bad.total=0
+  polled.tps=822.96
+Staging Insert:
+  success.total=58000
+  failed.total=0
+  insert.tps=972.76
+Kafka Offset:
+  commit.success.total=58
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:37.519] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=62404
+  valid.total=62000
+  bad.total=0
+  polled.tps=855.59
+Staging Insert:
+  success.total=62000
+  failed.total=0
+  insert.tps=790.20
+Kafka Offset:
+  commit.success.total=62
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:42.617] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=66731
+  valid.total=66000
+  bad.total=0
+  polled.tps=848.76
+Staging Insert:
+  success.total=66000
+  failed.total=0
+  insert.tps=784.62
+Kafka Offset:
+  commit.success.total=66
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:47.752] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=71059
+  valid.total=71000
+  bad.total=0
+  polled.tps=842.84
+Staging Insert:
+  success.total=71000
+  failed.total=0
+  insert.tps=973.71
+Kafka Offset:
+  commit.success.total=71
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:52.822] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=75426
+  valid.total=75000
+  bad.total=0
+  polled.tps=861.34
+Staging Insert:
+  success.total=75000
+  failed.total=0
+  insert.tps=788.95
+Kafka Offset:
+  commit.success.total=75
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:32:57.883] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=78769
+  valid.total=78000
+  bad.total=0
+  polled.tps=660.54
+Staging Insert:
+  success.total=78000
+  failed.total=0
+  insert.tps=592.77
+Kafka Offset:
+  commit.success.total=78
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:02.904] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=79418
+  valid.total=79000
+  bad.total=0
+  polled.tps=129.26
+Staging Insert:
+  success.total=79000
+  failed.total=0
+  insert.tps=199.16
+Kafka Offset:
+  commit.success.total=79
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:07.983] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=80074
+  valid.total=80000
+  bad.total=0
+  polled.tps=129.16
+Staging Insert:
+  success.total=80000
+  failed.total=0
+  insert.tps=196.89
+Kafka Offset:
+  commit.success.total=80
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:13.058] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=80730
+  valid.total=80000
+  bad.total=0
+  polled.tps=129.26
+Staging Insert:
+  success.total=80000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=80
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:18.069] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=81372
+  valid.total=81000
+  bad.total=0
+  polled.tps=128.14
+Staging Insert:
+  success.total=81000
+  failed.total=0
+  insert.tps=199.60
+Kafka Offset:
+  commit.success.total=81
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:23.095] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=82018
+  valid.total=82000
+  bad.total=0
+  polled.tps=128.53
+Staging Insert:
+  success.total=82000
+  failed.total=0
+  insert.tps=198.97
+Kafka Offset:
+  commit.success.total=82
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:28.126] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=82667
+  valid.total=82000
+  bad.total=0
+  polled.tps=128.97
+Staging Insert:
+  success.total=82000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=82
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:33.130] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=83313
+  valid.total=83000
+  bad.total=0
+  polled.tps=129.12
+Staging Insert:
+  success.total=83000
+  failed.total=0
+  insert.tps=199.88
+Kafka Offset:
+  commit.success.total=83
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:38.158] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=83964
+  valid.total=83000
+  bad.total=0
+  polled.tps=129.45
+Staging Insert:
+  success.total=83000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=83
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:43.206] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=84614
+  valid.total=84000
+  bad.total=0
+  polled.tps=128.76
+Staging Insert:
+  success.total=84000
+  failed.total=0
+  insert.tps=198.10
+Kafka Offset:
+  commit.success.total=84
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:48.219] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=85260
+  valid.total=85000
+  bad.total=0
+  polled.tps=128.86
+Staging Insert:
+  success.total=85000
+  failed.total=0
+  insert.tps=199.48
+Kafka Offset:
+  commit.success.total=85
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:53.281] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=85912
+  valid.total=85000
+  bad.total=0
+  polled.tps=128.83
+Staging Insert:
+  success.total=85000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=85
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:33:58.326] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=86562
+  valid.total=86000
+  bad.total=0
+  polled.tps=128.81
+Staging Insert:
+  success.total=86000
+  failed.total=0
+  insert.tps=198.18
+Kafka Offset:
+  commit.success.total=86
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:34:03.343] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=87210
+  valid.total=87000
+  bad.total=0
+  polled.tps=129.16
+Staging Insert:
+  success.total=87000
+  failed.total=0
+  insert.tps=199.32
+Kafka Offset:
+  commit.success.total=87
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:34:08.343] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=87848
+  valid.total=87000
+  bad.total=0
+  polled.tps=127.60
+Staging Insert:
+  success.total=87000
+  failed.total=0
+  insert.tps=0.00
+Kafka Offset:
+  commit.success.total=87
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:34:13.416] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=91396
+  valid.total=91000
+  bad.total=0
+  polled.tps=699.39
+Staging Insert:
+  success.total=91000
+  failed.total=0
+  insert.tps=788.49
+Kafka Offset:
+  commit.success.total=91
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:34:18.513] [CONSUMER] [INFO] ========== [STATS] CONSUMER ==========
+Consumer:
+  polled.total=95699
+  valid.total=95000
+  bad.total=0
+  polled.tps=844.39
+Staging Insert:
+  success.total=95000
+  failed.total=0
+  insert.tps=784.93
+Kafka Offset:
+  commit.success.total=95
+  commit.failed.total=0
+Reliability:
+  retry.total=0
+  backpressure.pause.total=0
+==========================================
+[2026-06-09 16:34:21.843] [CONSUMER] [INFO] Consumer app stopped.
